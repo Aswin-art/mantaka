@@ -1,1 +1,17 @@
 /* * css goes in here */
+
+.text-main-color {
+  color: #0c356a;
+}
+
+.text-second-color {
+  color: rgba(250, 250, 250, 1);
+}
+
+.bg-main-color {
+  background-color: #0c356a;
+}
+
+.bg-gray-200 {
+  background-color: rgba(245, 245, 245, 1);
+}
